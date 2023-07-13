@@ -1,0 +1,54 @@
+BODY {
+	FONT-WEIGHT: bold; BACKGROUND-ATTACHMENT: fixed; BACKGROUND-IMAGE: url(); COLOR: #ffffff; BACKGROUND-COLOR: #FFFFFF
+}
+.style1 A:link {
+	COLOR: #ffffff
+}
+.style1 A:visited {
+	COLOR: #ffffff
+}
+.style1 A:hover {
+	BACKGROUND-COLOR: #3e3e3e
+}
+.style1 A:active {
+	COLOR: #333333
+}
+.style2 {
+	FONT-WEIGHT: normal; FONT-SIZE: small; COLOR: #ffffff
+}
+.style3 {
+	FONT-WEIGHT: bold; FONT-SIZE: small; COLOR: #ffffff
+}
+.style4 {
+	FONT-WEIGHT: normal; FONT-SIZE: small; COLOR: #000000
+}
+.menuHead {
+	FONT-WEIGHT: bold; FONT-SIZE: larger 
+}
+.menuChoices {
+	FONT-WEIGHT: bold; FILTER: alpha(opacity=75); OVERFLOW: hidden; BACKGROUND-COLOR: #FFCC00
+}
+.menu A {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.menu A:hover {
+	COLOR: #00a47a; TEXT-DECORATION: none
+}
+#menu1 {
+	WIDTH: 80px; POSITION: relative
+}
+#menu2 {
+	WIDTH: 100px; POSITION: relative
+}
+#menu3 {
+	WIDTH: 130px; POSITION: relative
+}
+#menu4 {
+	WIDTH: 185px; POSITION: relative
+}
+#menu5 {
+	WIDTH: 150px; POSITION: relative
+}
+
+
+}
